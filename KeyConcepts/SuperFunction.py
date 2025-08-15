@@ -13,7 +13,7 @@ class EMP:
 
 class FreeLance(EMP):
     def __init__(self,name, id, age, Email):
-        super().__init__(name, id, age)
+        super().__init__(name, id, age) #calling the parent class constructor and overiding it or making it customised
         self.Email = Email
 
 

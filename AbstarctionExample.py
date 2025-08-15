@@ -1,4 +1,4 @@
-''' Absatrction is a process of hiding implemenstsion details and show only necessary details to the users,
+''' Absatrction is a process of hiding implemenation details and show only necessary details to the users,
  we can acheive the abstarction using abstarct classes and abstarction can be created using the abc (abstarct base class module)
 
 Notes: Abstarct class is a class in which one or more abstract methods are defined.when method is declared

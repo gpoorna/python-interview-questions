@@ -34,4 +34,4 @@ class BankAccount:
 b = BankAccount("Poorna", 1000)
 b.deposit(100)
 b.withdraw(50)
-#print(b.__balance) #Attribute Error beacause trying to access the private member
+print(b.__balance) #Attribute Error beacause trying to access the private member

@@ -14,7 +14,7 @@ class Student:
 
 s = Student("Raja", "2021") 
 s.getCGPA(80)
-print(Student.age)
+print(Student.age) #Accessing the static variables using class name
 print(Student.college_name)
 print(s.name)
 
